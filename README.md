@@ -1,2 +1,6 @@
 # ASG1-ID-Jason-Koh
 This is an repository for assignment 1 for ID
+
+GitHub Link: https://github.com/JasonKoh441/ASG1-ID-Jason-Koh
+
+GitHub Pages:
